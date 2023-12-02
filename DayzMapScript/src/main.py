@@ -1,4 +1,4 @@
-#Made by Kapitan (RooftopKorean) 
+#Made by Kapitan (RooftopKorean) for my love lily
 #Please be aware that too many request may blacklists you
 
 import requests
